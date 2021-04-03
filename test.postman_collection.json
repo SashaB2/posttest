@@ -1,0 +1,40 @@
+{
+	"info": {
+		"_postman_id": "5949f552-111b-4d62-b518-41e5f4cbf240",
+		"name": "test",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "ReqSmth",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://gergergergerger.com",
+					"protocol": "http",
+					"host": [
+						"gergergergerger",
+						"com"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"auth": {
+		"type": "basic",
+		"basic": [
+			{
+				"key": "password",
+				"value": "Username",
+				"type": "string"
+			},
+			{
+				"key": "username",
+				"value": "Username",
+				"type": "string"
+			}
+		]
+	}
+}
